@@ -3,7 +3,7 @@ body {
     margin: 150px;
     font-family: "Outfit", sans-serif;
 }
-  h1, h3 {
+  h1, h2 {
     text-align: center;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
@@ -11,7 +11,9 @@ body {
   p {
     font-size: 15px;
     text-align: center;
-    font-weight: 400;
+    font-weight: 300;
+    padding-left: 30px;
+    padding-right: 30px;
     color: hsl(220, 15%, 55%);
 
 }
@@ -20,8 +22,9 @@ body {
     background-color: white;
     border-radius: 20px;
     margin: auto;
-    width: 25%;
+    width: 30%;
     padding-top: 14px;
+    
 }
 
 .container {
